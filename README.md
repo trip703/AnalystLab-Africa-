@@ -46,9 +46,11 @@ Visualization
 Operational Insights
  
 3.Key Performance Indicators
+
 The analysis validates several important healthcare appointment KPIs:
 1. Global No-Show Rate
 Measures the overall proportion of appointments that were missed.
+
 2. SMS Reminder Association
 Compares appointment attendance between patients who received SMS reminders and those who did not.
 Important: the analysis describes an association between SMS reminders and attendance. It does not establish a causal relationship.
